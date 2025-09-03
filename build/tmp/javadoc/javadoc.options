@@ -1,0 +1,11 @@
+-classpath 'C:\\Users\\Case\\IdeaProjects\\jtiled\\build\\classes\\java\\main;C:\\Users\\Case\\IdeaProjects\\jtiled\\build\\resources\\main'
+-d 'C:\\Users\\Case\\IdeaProjects\\jtiled\\build\\docs\\javadoc'
+-doctitle 'jtiled 1.0.0 API'
+-notimestamp 
+-quiet 
+-windowtitle 'jtiled 1.0.0 API'
+'C:\\Users\\Case\\IdeaProjects\\jtiled\\src\\main\\java\\org\\rabbittownsoftware\\jtiled\\TiledLayer.java'
+'C:\\Users\\Case\\IdeaProjects\\jtiled\\src\\main\\java\\org\\rabbittownsoftware\\jtiled\\TiledMap.java'
+'C:\\Users\\Case\\IdeaProjects\\jtiled\\src\\main\\java\\org\\rabbittownsoftware\\jtiled\\TiledObject.java'
+'C:\\Users\\Case\\IdeaProjects\\jtiled\\src\\main\\java\\org\\rabbittownsoftware\\jtiled\\TiledParser.java'
+'C:\\Users\\Case\\IdeaProjects\\jtiled\\src\\main\\java\\org\\rabbittownsoftware\\jtiled\\TiledTileset.java'

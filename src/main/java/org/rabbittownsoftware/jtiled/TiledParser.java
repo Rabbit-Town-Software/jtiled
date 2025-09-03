@@ -1,4 +1,4 @@
-﻿package org.rabbittownsoftware.jtiled;
+package org.rabbittownsoftware.jtiled;
 
 import org.w3c.dom.*;
 import javax.xml.parsers.DocumentBuilder;

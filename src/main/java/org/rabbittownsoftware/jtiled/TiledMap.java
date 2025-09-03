@@ -1,4 +1,4 @@
-﻿package org.rabbittownsoftware.jtiled;
+package org.rabbittownsoftware.jtiled;
 
 import java.util.ArrayList;
 import java.util.Collections;

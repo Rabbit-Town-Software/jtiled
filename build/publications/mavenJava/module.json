@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.rabbittownsoftware",
+    "module": "jtiled",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 24,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "jtiled-1.0.0.jar",
+          "url": "jtiled-1.0.0.jar",
+          "size": 14967,
+          "sha512": "014882995327f94e240b157ccd205312443fb167fd441e3e0da1433fb335d3feff0af07e390e7b1421917a1fdd831b43c288dc4d8a8c873f9cbe12fe5f9f2f65",
+          "sha256": "6d2e7083f4b3a639259f6fb2b91d6da7956e5f9ee038622766399b9c77154871",
+          "sha1": "27668cffe2990d47fbef7c3d987253613fedecab",
+          "md5": "70e57826419a43a4b1978a275f8e6236"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 24,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "jtiled-1.0.0.jar",
+          "url": "jtiled-1.0.0.jar",
+          "size": 14967,
+          "sha512": "014882995327f94e240b157ccd205312443fb167fd441e3e0da1433fb335d3feff0af07e390e7b1421917a1fdd831b43c288dc4d8a8c873f9cbe12fe5f9f2f65",
+          "sha256": "6d2e7083f4b3a639259f6fb2b91d6da7956e5f9ee038622766399b9c77154871",
+          "sha1": "27668cffe2990d47fbef7c3d987253613fedecab",
+          "md5": "70e57826419a43a4b1978a275f8e6236"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "jtiled-1.0.0-javadoc.jar",
+          "url": "jtiled-1.0.0-javadoc.jar",
+          "size": 4163435,
+          "sha512": "5c02b542db58bfd0c9a7486ea361c54faea75d47d65bee6364d4e8e4486f2d478dac3a9c8e8bb3898a1210d1381cf884a563a894b72e0365b8d87966a4bd8cf9",
+          "sha256": "862fd80c750241faa6b3cc7d660f4aadbee19d1bf909a8d4e104f8a2462bea3d",
+          "sha1": "82a334534c7a63231572e06cd510a3f7af585120",
+          "md5": "ce9cc665322f8290e4ee49b718094c07"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "jtiled-1.0.0-sources.jar",
+          "url": "jtiled-1.0.0-sources.jar",
+          "size": 9516,
+          "sha512": "f93670b7b3505dc93c40ac06c4361e7f41587542e5b62ac6e37807f228248be4695f6aa8f3d82234e5140fa4353449a0f7bab4c1bd21f70e6f1f35dfa368d961",
+          "sha256": "ba8a76aee35f65d362e78118c015229492c06a3908e96fcaf086f2c3e4677dde",
+          "sha1": "965cf402b51b7318d9982d01758c3b6dad51b3b4",
+          "md5": "e8453e3e9dcb8b887b1cd509bc059502"
+        }
+      ]
+    }
+  ]
+}

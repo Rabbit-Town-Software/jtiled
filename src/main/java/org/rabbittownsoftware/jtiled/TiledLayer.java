@@ -1,4 +1,4 @@
-﻿package org.rabbittownsoftware.jtiled;
+package org.rabbittownsoftware.jtiled;
 
 /**
  * Represents a single tile layer inside a Tiled map (.tmx file).
