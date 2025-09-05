@@ -46,7 +46,8 @@ TiledParser parser = new TiledParser(Collections.emptyList());
 TiledMap map = parser.loadFromTMX("example.tmx");
 
 System.out.println("Map size: " + map.getWidth() + " x " + map.getHeight());
-for (TiledLayer layer : map.getLayers()) {
+for (TiledLayer layer : map.getLayers())
+{
     System.out.println("Layer: " + layer.name());
 }
 ```
